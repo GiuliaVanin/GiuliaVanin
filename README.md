@@ -19,7 +19,7 @@ Hello! I’m a determined, driven, and ambitious global IT recruitment and talen
    <a href="https://tableau.com/" target="_blank" rel="noreferrer; return false;"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/tableau.svg" width="163" height="36" alt="Tableau Logo" /></a>&nbsp;&nbsp;</a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a>
 </p>
 
-**Skills Snapshot Languages**: Python, SQL Data Manipulation: Pandas, NumPy Data Visualization: Matplotlib, Seaborn, Plotly Machine Learning: Scikit-Learn Version Control: Git, GitHub
+**Skills Snapshot Languages**: Python, SQL Data Manipulation, Tableau, Pandas, Data Visualization, Matplotlib, Seaborn
 
 
 ### Socials
