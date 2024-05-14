@@ -31,3 +31,5 @@ Hello! I’m a determined, driven, and ambitious global IT recruitment and talen
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/GiuliaVanin"><img src="https://github-readme-stats.vercel.app/api?username=GiuliaVanin&show_icons=true&hide=&count_private=true&title_color=000000&text_color=000000&icon_color=84cc16&bg_color=ffffff&hide_border=true&show_icons=true" alt="GiuliaVanin's GitHub stats" /></a>
+
+<a href="http://www.github.com/GiuliaVanin"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GiuliaVanin&stroke=000000&background=ffffff&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
