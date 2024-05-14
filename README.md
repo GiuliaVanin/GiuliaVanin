@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Giulia (Julia, in Italian)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Giulia (Pronounced Julia, Italian spelling!)
 ====================================================================================================================================
 
 Data-Driven Recruitment Manager 🌐📊 - Transforming Data into Actionable Insights
@@ -10,6 +10,13 @@ Hello! I’m a determined, driven, and ambitious global IT recruitment and talen
 * ✉️  You can contact me at [giuliavdata@hotmail.com](mailto:giuliavdata@hotmail.com)
 * 🧠  I'm learning Python, Pandas, R, SQL, Tableau, PowerBI, Excel, AZ900, DP-900
 * ⚡  I speak Italian, English and Spanish fluently! When not in front of the computer you can find me outdoor in a park and nature or in a Hot Yoga studio
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a>
+</p>
 
 
 ### Socials
