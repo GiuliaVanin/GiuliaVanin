@@ -9,7 +9,7 @@ Hello! I’m a determined, driven, and ambitious global IT recruitment and talen
 * 🌍  I'm based in London
 * ✉️  You can contact me at [giuliavdata@hotmail.com](mailto:giuliavdata@hotmail.com)
 * 🧠  I'm learning Python, Pandas, R, SQL, Tableau, PowerBI, Excel, AZ900, DP-900
-* ⚡  I speak Italian, English and Spanish fluently! When not in front of the computer you can find me outdoor in a park and nature or in a Hot Yoga studio
+* ⚡  I speak Italian, English and Spanish fluently! When not in front of the computer you can find me outdoor in a park and nature or unwinding in a Hot Yoga studio
 
 ### Skills
 
